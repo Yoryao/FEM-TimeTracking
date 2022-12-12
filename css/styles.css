@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: hsl(235deg, 46%, 20%);
+}
+
+@media screen and (max-width: 1440px) {
+  body {
+    font-family: "Rubik", sans-serif;
+    color: hsl(145deg, 58%, 55%);
+  }
+}
+
+/*# sourceMappingURL=styles.css.map */
