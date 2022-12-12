@@ -1,0 +1,25 @@
+@use 'guide';
+
+@mixin font {
+    font-family: guide.$font;
+    color: guide.$primaryLimeGreen;
+}
+
+
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: guide.$neutralDarkBlue;
+}
+
+
+@media screen and (max-width: 375px) {
+    
+}
+
+
+@media screen and (max-width: 1440px) {
+   
+}
